@@ -1,0 +1,5 @@
+[[Star]]
+[[Snowflake]]
+[[Data Vault]]
+[[OLAP Cube]]
+[[SCD]]
