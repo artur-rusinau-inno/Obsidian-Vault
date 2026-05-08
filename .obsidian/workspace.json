@@ -4,11 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "655e5bc208ea738b",
+        "id": "78ca234864462b5e",
         "type": "tabs",
         "children": [
           {
-            "id": "27bfcefa47389fde",
+            "id": "5c2c98cc2d5e602c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.4019828977761002,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "9a2af98db119de96",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -17,7 +53,8 @@
               "title": "Граф"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +204,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "copilot:Open Copilot Chat": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -175,11 +211,27 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "27bfcefa47389fde",
+  "active": "9a2af98db119de96",
   "lastOpenFiles": [
+    "03_Pipelines/===PIPELINES===.md",
+    "06_Orchestration/DAG.md",
+    "06_Orchestration/Apache Airflow.md",
+    "06_Orchestration/===ORCHESTRATION===.md",
+    "03_Pipelines/Этапы.md",
+    "03_Pipelines/Load.md",
+    "02_Storage/===STORAGE===.md",
+    "02_Storage/Storage Types.md",
+    "05_Analytics/OLAP vs OLTP.md",
+    "05_Analytics/OLAP.md",
+    "04_Modelling/Snowflake.md",
+    "00_Theory/3NF.md",
+    "00_Theory/Нормализация.md",
+    "07_Architecture/===ARCHITECTURE===.md",
+    "07_Architecture/CI-CD.md",
     "copilot/copilot-conversations/проверь_как_обстоят_дела_с_моими_связями@20260508_165834.md",
     "copilot/copilot-conversations",
     "copilot",
@@ -191,27 +243,12 @@
     "07_Architecture/Data WareHouse.md",
     "07_Architecture/Data Lake.md",
     "07_Architecture/Bronze.md",
-    "07_Architecture/CI-CD.md",
-    "07_Architecture/===ARCHITECTURE===.md",
     "07_Architecture",
-    "06_Orchestration/DAG.md",
-    "06_Orchestration/Apache Airflow.md",
-    "06_Orchestration/===ORCHESTRATION===.md",
     "06_Orchestration",
-    "05_Analytics/OLAP.md",
-    "05_Analytics/OLAP vs OLTP.md",
     "05_Analytics/===ANALYTICS===.md",
     "05_Analytics",
-    "04_Modelling/Snowflake.md",
     "04_Modelling/Star.md",
-    "04_Modelling/SCD.md",
-    "04_Modelling/OLAP Cube.md",
-    "04_Modelling/===MODELLING===.md",
-    "04_Modelling/Data Vault.md",
     "04_Modelling",
-    "03_Pipelines/Этапы.md",
-    "03_Pipelines/Процессы.md",
-    "03_Pipelines/Transform.md",
     "03_Pipelines",
     "02_Storage",
     "01_Sources",
