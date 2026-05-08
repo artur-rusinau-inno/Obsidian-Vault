@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5a48a4b11c3036a6",
+        "id": "655e5bc208ea738b",
         "type": "tabs",
         "children": [
           {
-            "id": "d073b3dbb1e7df12",
+            "id": "27bfcefa47389fde",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -178,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d073b3dbb1e7df12",
+  "active": "27bfcefa47389fde",
   "lastOpenFiles": [
     "copilot/copilot-conversations/проверь_как_обстоят_дела_с_моими_связями@20260508_165834.md",
     "copilot/copilot-conversations",
