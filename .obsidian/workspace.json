@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "78ca234864462b5e",
+        "id": "f1ead9d45c090749",
         "type": "tabs",
         "children": [
           {
-            "id": "5c2c98cc2d5e602c",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.4019828977761002,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "9a2af98db119de96",
+            "id": "b1b994e677db1ac4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -53,8 +17,7 @@
               "title": "Граф"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,7 +178,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9a2af98db119de96",
+  "active": "b1b994e677db1ac4",
   "lastOpenFiles": [
     "03_Pipelines/===PIPELINES===.md",
     "06_Orchestration/DAG.md",
