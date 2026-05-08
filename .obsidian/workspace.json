@@ -159,13 +159,23 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
+          },
+          {
+            "id": "405230f11a39a10c",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,11 +186,31 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6323595a2812f8b7",
+  "active": "405230f11a39a10c",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/проверь_как_обстоят_дела_с_моими_связями@20260508_165834.md",
+    "copilot/copilot-conversations",
+    "copilot",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
     "05_Analytics/===ANALYTICS===.md",
     "03_Pipelines/===PIPELINES===.md",
     "03_Pipelines/ETL-процесс.md",
@@ -191,29 +221,12 @@
     "07_Architecture/===ARCHITECTURE===.md",
     "06_Orchestration/===ORCHESTRATION===.md",
     "00_Theory/===THEORY===.md",
-    "01_Sources/===SOURCES===.md",
-    "02_Storage/===STORAGE===.md",
-    "03_Pipelines/CDC.md",
-    "07_Architecture/Bronze.md",
     "07_Architecture",
     "05_Analytics",
     "04_Modelling",
     "00_Theory",
-    "00_Theory/Нормализация.md",
-    "00_Theory/1NF.md",
-    "00_Theory/3NF.md",
-    "00_Theory/Денормализация.md",
-    "05_Analytics/OLAP.md",
-    "04_Modelling/Star.md",
-    "00_Theory/2NF.md",
-    "07_Architecture/Gold.md",
-    "07_Architecture/Silver.md",
-    "07_Architecture/Медальонная структура.md",
-    "00_Theory/ACID (Транзакции).md",
-    "01_Sources/OLTP.md",
     "06_Orchestration",
     "02_Storage",
-    "03_Pipelines",
-    "01_Sources"
+    "03_Pipelines"
   ]
 }
