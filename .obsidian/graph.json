@@ -8,28 +8,56 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:01_Sources  ",
+      "query": "path:00_Theory  ",
       "color": {
         "a": 1,
         "rgb": 16711680
       }
     },
     {
-      "query": "path:02_Pipelines  ",
+      "query": "path:01_Sources  ",
+      "color": {
+        "a": 1,
+        "rgb": 16741120
+      }
+    },
+    {
+      "query": "path:02_Storage  ",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "path:03_Pipelines  ",
       "color": {
         "a": 1,
         "rgb": 65280
       }
     },
     {
-      "query": "path:03_Storage  ",
+      "query": "path:04_Modelling  ",
       "color": {
         "a": 1,
-        "rgb": 255
+        "rgb": 8437247
       }
     },
     {
-      "query": "path:04_Orchestration  ",
+      "query": "path:05_Analytics  ",
+      "color": {
+        "a": 1,
+        "rgb": 214
+      }
+    },
+    {
+      "query": "path:06_Orchestration  ",
+      "color": {
+        "a": 1,
+        "rgb": 8192255
+      }
+    },
+    {
+      "query": "path:07_Architecture  ",
       "color": {
         "a": 1,
         "rgb": 16711935
@@ -46,6 +74,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 204,
-  "scale": 0.0078125,
+  "scale": 0.32133638605034226,
   "close": true
 }

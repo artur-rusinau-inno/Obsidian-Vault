@@ -3,3 +3,4 @@
 [[Data Vault]]
 [[OLAP Cube]]
 [[SCD]]
+[[===ARCHITECTURE===]]

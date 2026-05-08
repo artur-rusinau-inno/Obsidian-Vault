@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "b3cab98c7708066c",
+    "id": "83ba503ea4a5e828",
     "type": "split",
     "children": [
       {
-        "id": "699a3ee88cf918fa",
+        "id": "b8a14aa95126a3f9",
         "type": "tabs",
         "children": [
           {
-            "id": "9388e075fd3bcedf",
+            "id": "6323595a2812f8b7",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0667841d293718fe",
+    "id": "255d715ac7e95b77",
     "type": "split",
     "children": [
       {
-        "id": "d6fe5cfbf784efb9",
+        "id": "3b6e546142c6f65b",
         "type": "tabs",
         "children": [
           {
-            "id": "1a9bb1a409f90e11",
+            "id": "2d987f8f8addcfa4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "b1918a44042a13f5",
+            "id": "78453d4ec4ce35bb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "f0b12e10c1630b4f",
+            "id": "4e2a727e1de10085",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,15 +79,15 @@
     "width": 300
   },
   "right": {
-    "id": "73c7f02ea9b73fd8",
+    "id": "01ef50514a2b272d",
     "type": "split",
     "children": [
       {
-        "id": "3cff13ef45a8fe65",
+        "id": "357f21147dcee0d5",
         "type": "tabs",
         "children": [
           {
-            "id": "455c9059b01ee5dd",
+            "id": "95833158a9d744eb",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -105,7 +105,7 @@
             }
           },
           {
-            "id": "df54a39bb07208b2",
+            "id": "e213f60f6858bf65",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -118,7 +118,7 @@
             }
           },
           {
-            "id": "a2b21d59fa7d8455",
+            "id": "a76b816be045ec1b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +133,7 @@
             }
           },
           {
-            "id": "ead576f4c3e0b163",
+            "id": "fa2514ff54603d3f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,7 +147,7 @@
             }
           },
           {
-            "id": "33938278cdef365e",
+            "id": "76f974f2b694290b",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -159,19 +159,8 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
-          },
-          {
-            "id": "806feea7a9fdf768",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,52 +169,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9388e075fd3bcedf",
+  "active": "6323595a2812f8b7",
   "lastOpenFiles": [
-    "CI-CD.md",
-    "Col-Row.md",
-    "03_Storage/Storage.md",
-    "02_Pipelines/Transform.md",
-    "03_Storage/Медальонная структура.md",
-    "02_Pipelines/Load.md",
-    "CDC.md",
-    "OLTP.md",
-    "01_Sources/Sources.md",
-    "SCD.md",
-    "Partition pruning.md",
-    "col/Col-Row.md",
-    "OLAP.md",
-    "Теории.md",
-    "04_Orchestration/Orchestration.md",
-    "CI/CD.md",
-    "CI",
-    "Data Modelling.md",
-    "Star.md",
-    "Snowflake.md",
-    "Data Vault.md",
-    "OLAP Cube.md",
-    "ACID (Транзакции).md",
-    "03_Storage/Data WareHouse.md",
-    "Storage Types.md",
-    "col",
-    "noSQL.md",
-    "CAP.md",
-    "01_Sources",
-    "02_Pipelines",
-    "03_Storage",
-    "04_Orchestration",
-    "Процессы",
-    "Без названия 1.canvas",
-    "Без названия.canvas"
+    "05_Analytics/===ANALYTICS===.md",
+    "03_Pipelines/===PIPELINES===.md",
+    "03_Pipelines/ETL-процесс.md",
+    "03_Pipelines/ELT-процесс.md",
+    "04_Modelling/===MODELLING===.md",
+    "07_Architecture/Delta Lake.md",
+    "07_Architecture/===ARCHITECTURE===.md",
+    "07_Architecture/===ARCHITECTURE===.md",
+    "06_Orchestration/===ORCHESTRATION===.md",
+    "00_Theory/===THEORY===.md",
+    "01_Sources/===SOURCES===.md",
+    "02_Storage/===STORAGE===.md",
+    "03_Pipelines/CDC.md",
+    "07_Architecture/Bronze.md",
+    "07_Architecture",
+    "05_Analytics",
+    "04_Modelling",
+    "00_Theory",
+    "00_Theory/Нормализация.md",
+    "00_Theory/1NF.md",
+    "00_Theory/3NF.md",
+    "00_Theory/Денормализация.md",
+    "05_Analytics/OLAP.md",
+    "04_Modelling/Star.md",
+    "00_Theory/2NF.md",
+    "07_Architecture/Gold.md",
+    "07_Architecture/Silver.md",
+    "07_Architecture/Медальонная структура.md",
+    "00_Theory/ACID (Транзакции).md",
+    "01_Sources/OLTP.md",
+    "06_Orchestration",
+    "02_Storage",
+    "03_Pipelines",
+    "01_Sources"
   ]
 }
