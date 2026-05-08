@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:00_Theory  ",
@@ -67,13 +67,13 @@
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.00155925155925,
-  "lineSizeMultiplier": 1.00155925155925,
+  "nodeSizeMultiplier": 1.49054054054054,
+  "lineSizeMultiplier": 1.51091476091476,
   "collapse-forces": false,
-  "centerStrength": 0.616424116424116,
-  "repelStrength": 20,
+  "centerStrength": 0,
+  "repelStrength": 7.83783783783784,
   "linkStrength": 1,
-  "linkDistance": 204,
-  "scale": 0.32133638605034226,
+  "linkDistance": 199,
+  "scale": 0.8854989543149857,
   "close": true
 }
